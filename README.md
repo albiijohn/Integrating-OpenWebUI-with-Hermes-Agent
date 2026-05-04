@@ -3,7 +3,7 @@
 ### 🤔 What is this? (The Simple Explanation)
 Most people know AI like ChatGPT as a chatbot that just talks to you. But what if your AI had hands? What if it could actually type commands into your computer and do the work for you?
 
-That is exactly what this project does. It gives a private, local AI the ability to run real system commands. From a familiar chat dashboard, you can tell the AI to "scan my network" or "find vulnerabilities." The AI will autonomously type the commands into the terminal, run the tools, read the output, and explain the results to you. 
+That is exactly what this project does. It gives a private, local AI the ability to run real system commands. From a familiar chat dashboard, you can tell the AI to "scan my network" or "find vulnerabilities." The AI will autonomously type the commands into the terminal, run the tools, read the output, and explain the results to you.  
 
 ---
 
